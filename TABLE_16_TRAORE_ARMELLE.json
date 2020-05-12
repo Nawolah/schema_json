@@ -1,0 +1,68 @@
+{
+    "name": "Table_16",
+    "fields": [
+        {
+            "name":  "HDI_rank",
+            "type": "integer"
+	        "contraints": {
+			           "unique": True
+			              }
+        },
+		
+            "name":  "Human_Development_Level(HDL)",
+            "type": "string"
+        },
+        {
+ 		    "name":  "Countries"
+		    "type":   "string"
+		
+		},      
+        {
+		    "name": "Imports_of_goods_and_services_(% of GDP)_1990"
+            "type": "number"		
+		},
+		{
+		    "name": "Imports_of_goods_and_services_(% of GDP)_2005"
+            "type": "number"		
+		},
+		{
+		    "name": "Exports_of_goods_and_services_(% of GDP)_1990"
+            "type": "number"		
+		},
+        {
+		    "name": "Exports_of_goods_and_services_(% of GDP)_2005"
+            "type": "number"		
+		},
+		{
+		    "name": "Primary_exportsa_ (% of merchandise exports)_1990"
+            "type": "number"		
+		},
+		{
+		    "name": "Primary_exportsa_ (% of merchandise exports)_2005"
+            "type": "number"		
+		},
+		{
+		    "name": "Manufactured exports_(% of merchandise exports)_1990"
+            "type": "number"		
+		},
+		{
+		    "name": "Manufactured exports_(% of merchandise exports)_2005"
+            "type": "number"		
+		},
+		{
+		    "name": "High_technology_exports_(% of manufactured exports)_1990"
+            "type": "number"		
+		},
+		{
+		    "name": "High_technology_exports_(% of manufactured exports)_2005"
+            "type": "number"		
+		},
+		{
+		    "name": "Terms_of_trade_ (2000=100)b_2004-05c"
+            "type": "number"		
+		}
+
+	  }
+    ]
+	
+}

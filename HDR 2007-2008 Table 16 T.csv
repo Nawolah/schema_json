@@ -1,0 +1,178 @@
+HDI_rank;Human_Development _Level(HDL);Countries;Imports_of_goods_and_services_(% of GDP)_1990;Imports_of_goods_and_services_(% of GDP)_2005;Exports_of_goods_and_services_ (% of GDP)_1990;Exports_of_goods_and_services_ (% of GDP)_2005;Primary_exportsa_ (% of merchandise exports)_1990;Primary_exportsa_ (% of merchandise exports)_2005;Manufactured exports_(% of merchandise exports)_1990;Manufactured_exports_ (% of merchandise exports)_2005;High_technology_exports_(% of manufactured exports)_1990;High_technology_exports_(% of manufactured exports)_2005;Terms_of_trade_ (2000=100)b_2004-05c
+1;High;Iceland;32;45;34;32;91;80;8;19;10 ,0;27 ,1; 
+2;High;Norway;34;28;40;45;67;80;32;17;12 ,4;17 ,3;122
+3;High;Australia;16;21;16;18;73;67;27;25;11 ,9;12 ,7;131
+4;High;Canada;26;34;26;39;36;37;59;58;13 ,7;14 ,4;111
+5;High;Ireland;52;68;57;83;26;10;70;86; ; ;99
+6;High;Sweden;30;41;30;49;16;15;83;79;13 ,3;16 ,7;90
+7;High;Switzerland;34;39;36;46;6;6;94;93;12 ,1;21 ,7; 
+8;High;Japan;10;11;10;13;3;4;96;92;23 ,8;22 ,5;83
+9;High;Netherlands;52;63;56;71;37;31;59;68;16 ,4;30 ,1;100
+10;High;France;23;27;21;26;23;18;77;80;16 ,1;20 ,0;111
+11;High;Finland;24;35;22;39;17;15;83;84;7 ,6;25 ,2;86
+12;High;United States;11;15;10;10;21;15;75;82;33 ,7;31 ,8;97
+13;High;Spain;19;31;16;25;24;22;75;77;6 ,4;7 ,1;102
+14;High;Denmark;33;44;37;49;35;31;60;65;15 ,2;21 ,6;104
+15;High;Austria;37;48;38;53;12;16;88;80;7 ,8;12 ,8;102
+16;High;United Kingdom;27;30;24;26;19;18;79;77;23 ,6;28 ,0;105
+17;High;Belgium;68;85;69;87;19;19;77;79; ;8 ,7;99
+18;High;Luxembourg;88;136;102;158; ;14; ;82; ;11 ,8; 
+19;High;New Zealand;27;30;27;29;72;66;26;31;9 ,5;14 ,2;112
+20;High;Italy;19;26;19;26;11;12;88;85;7 ,6;7 ,8;101
+21;High;Hong Kong, China (SAR);122;185;131;198;7;3;92;96;12 ,1;33 ,9;98
+22;High;Germany;25;35;25;40;10;10;89;83;11 ,1;16 ,9;101
+23;High;Israel;45;51;35;46;13;4;87;83;10 ,4;13 ,9;95
+24;High;Greece;28;28;18;21;46;41;54;56;2 ,2;10 ,2;95
+25;High;Singapore; ;213; ;243;27;15;72;81;39 ,7;56 ,6;87
+26;High;Korea (Republic of);29;40;28;42;6;9;94;91;17 ,8;32 ,3;77
+27;High;Slovenia;79;65;91;65;14;12;86;88;3 ,2;4 ,6; 
+28;High;Cyprus;57; ;52; ;42;36;58;63;8 ,2;46 ,3; 
+29;High;Portugal;38;37;31;29;19;16;80;75;4 ,4;8 ,7;102
+30;High;Brunei Darussalam; ; ; ; ;97;88;3;12; ;4 ,9; 
+31;High;Barbados;52;69;49;58;55;56;43;43;20 ,2;14 ,8; 
+32;High;Czech Republic;43;70;45;72; ;10; ;88; ;12 ,9; 
+33;High;Kuwait;58;30;45;68;94;93;6;7;3 ,5;1 ,0; 
+34;High;Malta;99;82;85;71;7;4;93;95;43 ,6;53 ,5;85
+35;High;Qatar; ;33; ;68;82;84;18;7;0 ,4;1 ,2; 
+36;High;Hungary;29;69;31;66;35;11;63;84;4 ,0;24 ,5;97
+37;High;Poland;22;37;29;37;36;20;58;78;3 ,7;3 ,8;107
+38;High;Argentina;5;19;10;25;71;68;29;31;7 ,1;6 ,6;107
+39;High;United Arab Emirates;41;76;66;94;88;76;12;24; ;10 ,2; 
+40;High;Chile;31;34;34;42;87;84;11;14;4 ,6;4 ,8;115
+41;High;Bahrain;95;64;116;82;54;93;45;7; ;2 ,0; 
+42;High;Slovakia;36;83;27;79; ;16; ;84; ;7 ,3; 
+43;High;Lithuania;61;65;52;58;38;44;59;56;0 ,4;6 ,1; 
+44;High;Estonia;54;90;60;84; ;22; ;69; ;17 ,6; 
+45;High;Latvia;49;62;48;48; ;40; ;57; ;5 ,3; 
+46;High;Uruguay;18;28;24;30;61;68;39;32; ;2 ,4;108
+47;High;Croatia;86;56;78;47;32;32;68;68;5 ,3;11 ,5; 
+48;High;Costa Rica;36;54;30;48;66;34;27;66; ;38 ,0;102
+49;High;Bahamas; ; ; ; ;81;58;19;42; ;4 ,9; 
+50;High;Seychelles;67;121;62;110;74;93;26;6;59 ,4;18 ,2;99
+51;High;Cuba; ; ; ; ; ;81; ;19; ;29 ,1; 
+52;High;Mexico;20;32;19;30;56;23;43;77;8 ,3;19 ,6;98
+53;High;Bulgaria;37;77;33;61; ;37; ;59; ;4 ,7; 
+54;High;Saint Kitts and Nevis;83;61;52;49; ;4; ;96; ;0 ,7; 
+55;High;Tonga;65;44;34;10;74;93;24;5; ;0 ,3; 
+56;High;Libyan Arab Jamahiriya;31;36;40;48;96; ;4; ; ; ;186
+57;High;Antigua and Barbuda;87;69;89;62; ;71; ;29; ;16 ,1; 
+58;High;Oman;28;43;47;57;94;89;5;6;2 ,1;2 ,2; 
+59;High;Trinidad and Tobago;29;46;45;58;73;74;27;26;0 ,8;1 ,3; 
+60;High;Romania;26;43;17;33;26;20;73;80;2 ,5;3 ,4; 
+61;High;Saudi Arabia;32;26;41;61;92;90;8;9;0 ,7;1 ,3; 
+62;High;Panama;79;72;87;69;78;91;21;9; ;0 ,9;94
+63;High;Malaysia;72;100;75;123;46;24;54;75;38 ,2;54 ,7;99
+64;High;Belarus;44;60;46;61; ;46; ;52; ;2 ,6; 
+65;High;Mauritius;71;61;64;57;34;29;66;70;0 ,5;21 ,3;85
+66;High;Bosnia and Herzegovina; ;81; ;36; ; ; ; ; ; ; 
+67;High;Russian Federation;18;22;18;35; ;60; ;19; ;8 ,1; 
+68;High;Albania;23;46;15;22; ;20; ;80; ;1 ,0; 
+69;High;Macedonia (TFYR);36;62;26;45; ;28; ;72; ;1 ,1; 
+70;High;Brazil;7;12;8;17;47;46;52;54;7 ,1;12 ,8;101
+71;Medium;Dominica;81;69;55;45;65;40;35;60; ;7 ,2; 
+72;Medium;Saint Lucia;84;70;73;60;68;63;32;36;4 ,5;20 ,1; 
+73;Medium;Kazakhstan;75;45;74;54; ;84; ;16; ;2 ,3; 
+74;Medium;Venezuela (Bolivarian Republic of);20;21;39;41;90;91;10;9;3 ,9;2 ,7;108
+75;Medium;Colombia;15;21;21;21;74;64;25;36;5 ,2;4 ,9;93
+76;Medium;Ukraine;29;53;28;54; ;30; ;69; ;3 ,7; 
+77;Medium;Samoa; ;51; ;27;90;23;10;77; ;0 ,1; 
+78;Medium;Thailand;42;75;34;74;36;22;63;77;20 ,7;26 ,6;93
+79;Medium;Dominican Republic;44;38;34;34;22;60;78;34; ;1 ,3;95
+80;Medium;Belize;60;63;62;55;88;86;15;13;10 ,4;2 ,8; 
+81;Medium;China;16;32;19;37;27;8;72;92;6 ,1;30 ,6;92
+82;Medium;Grenada;63;76;42;43;66;64;34;36; ;4 ,7; 
+83;Medium;Armenia;46;40;35;27; ;29; ;71; ;0 ,7; 
+84;Medium;Turkey;18;34;13;27;32;17;68;82;1 ,2;1 ,5;101
+85;Medium;Suriname;44;60;42;41;26;27;74;80; ;0 ,2; 
+86;Medium;Jordan;93;93;62;52;44;28;56;72;6 ,8;5 ,2;88
+87;Medium;Peru;14;19;16;25;82;83;18;17;1 ,6;2 ,6;109
+88;Medium;Lebanon;100;44;18;19; ;29; ;70; ;2 ,4; 
+89;Medium;Ecuador;32;32;33;31;98;91;2;9;0 ,3;7 ,6;108
+90;Medium;Philippines;33;52;28;47;31;11;38;89;32 ,5;71 ,0;89
+91;Medium;Tunisia;51;51;44;48;31;22;69;78;2 ,1;4 ,9;99
+92;Medium;Fiji;67; ;62;74;64;74;35;25;12 ,1;3 ,2; 
+93;Medium;Saint Vincent and the Grenadines;77;65;66;44; ;75; ;25; ;7 ,7; 
+94;Medium;Iran (Islamic Republic of);23;30;15;39; ;88; ;9; ;2 ,6; 
+95;Medium;Paraguay;39;54;33;47;90;87;10;13;0 ,2;6 ,6;112
+96;Medium;Georgia;46;54;40;42; ;60; ;40; ;22 ,6; 
+97;Medium;Guyana;80;124;63;88; ;78; ;20; ;1 ,1; 
+98;Medium;Azerbaijan;39;54;44;57; ;87; ;13; ;0 ,8; 
+99;Medium;Sri Lanka;38;46;29;34;42;28;54;70;0 ,6;1 ,5;101
+100;Medium;Maldives; ;110; ;62; ;92; ;8; ;2 ,1; 
+101;Medium;Jamaica;52;61;48;41;30;34;70;66;9 ,5;0 ,4; 
+102;Medium;Cape Verde;44;66;13;32; ;65; ;90; ; ;91
+103;Medium;El Salvador;31;45;19;27;62;40;38;60; ;4 ,1;91
+104;Medium;Algeria;25;23;23;48;97;98;3;2;1 ,3;1 ,0;126
+105;Medium;Viet Nam;45;75;36;70; ;46; ;53; ;5 ,6; 
+106;Medium;Occupied Palestinian Territories; ;68; ;14; ; ; ; ; ; ; 
+107;Medium;Indonesia;24;29;25;34;65;53;35;47;1 ,2;16 ,3;104
+108;Medium;Syrian Arab Republic;28;40;28;37;64;87;36;11; ;1 ,0; 
+109;Medium;Turkmenistan; ;48; ;65; ;92; ;7; ;4 ,9; 
+110;Medium;Nicaragua;46;58;25;28;92;89;8;11; ;5 ,2;91
+111;Medium;Moldova;51;91;48;53; ;61; ;39; ;2 ,7; 
+112;Medium;Egypt;33;33;20;30;57;64;42;31; ;0 ,6;107
+113;Medium;Uzbekistan;48;30;29;40; ; ; ; ; ; ; 
+114;Medium;Mongolia;49;84;22;76; ;79; ;21; ;0 ,1; 
+115;Medium;Honduras;40;61;37;41;91;64;9;36; ;2 ,2;90
+116;Medium;Kyrgyzstan;50;58;29;39; ;35; ;27; ;2 ,2; 
+117;Medium;Bolivia;24;33;23;36;95;89;5;11;6 ,8;9 ,2;108
+118;Medium;Guatemala;25;30;21;16;76;43;24;57; ;3 ,2;93
+119;Medium;Gabon;31;39;46;59; ;93; ;7; ;14 ,5;125
+120;Medium;Vanuatu;77; ;49; ;87;92;13;8;19 ,8;1 ,2; 
+121;Medium;South Africa;19;29;24;27;29;43;29;57;6 ,8;6 ,6;109
+122;Medium;Tajikistan;35;73;28;54; ;87; ;13; ;41 ,8; 
+123;Medium;Sao Tome and Principe;72;99;14;40; ; ; ; ; ; ;137
+124;Medium;Botswana;50;35;55;51; ;13; ;86; ;0 ,2;92
+125;Medium;Namibia;67;45;52;46; ;58; ;41; ;2 ,9;97
+126;Medium;Morocco;32;43;26;36;48;35;52;65; ;10 ,1;100
+127;Medium;Equatorial Guinea;70; ;32; ; ; ; ; ; ; ;124
+128;Medium;India;9;24;7;21;28;29;70;70;2 ,4;4 ,9;76
+129;Medium;Solomon Islands;73;46;47;48;109; ; ; ; ; ; 
+130;Medium;Lao People's Democratic Republic;25;31;12;27; ; ; ; ; ; ; 
+131;Medium;Cambodia;13;74;6;65; ;3; ;97; ;0 ,2; 
+132;Medium;Myanmar;5; ;3; ;89; ;11; ;3 ,0; ;102
+133;Medium;Bhutan;31;55;27;27;58; ;42; ; ; ; 
+134;Medium;Comoros;37;35;14;12; ;89; ;8; ;0 ,5;58
+135;Medium;Ghana;26;62;17;36;92;88;8;12;2 ,1;9 ,3;123
+136;Medium;Pakistan;23;20;16;15;21;18;79;82;0 ,4;1 ,6;75
+137;Medium;Mauritania;61;95;46;36; ; ; ; ; ; ;95
+138;Medium;Lesotho;122;88;17;48; ; ; ; ; ; ;91
+139;Medium;Congo;46;55;54;82; ; ; ; ; ; ;121
+140;Medium;Bangladesh;14;23;6;17;22;10;77;90;0 ,1; ;88
+141;Medium;Swaziland;87;95;75;88; ;23; ;76; ;0 ,5;94
+142;Medium;Nepal;21;33;11;16;17;26;83;74; ;0 ,1; 
+143;Medium;Madagascar;28;40;17;26;85;76;14;22;7 ,5;0 ,8;82
+144;Medium;Cameroon;17;25;20;23;91;85;9;3;3 ,1;2 ,0;112
+145;Medium;Papua New Guinea;49;54;41;45;89;94;10;6; ;39 ,4; 
+146;Medium;Haiti;20;45;18;16;15; ;85; ;13 ,8; ;87
+147;Medium;Sudan; ;28; ;18;98;99;2; ; ; ;121
+148;Medium;Kenya;31;35;26;27;70;79;30;21;3 ,9;3 ,1; 
+149;Medium;Djibouti;78;54;54;37;44; ;8; ; ; ; 
+150;Medium;Timor-Leste; ; ; ; ; ; ; ; ; ; ; 
+151;Medium;Zimbabwe;23;53;23;43;68;72;31;28;1 ,5;0 ,9;104
+152;Medium;Togo;45;47;33;34;89;42;9;58;0 ,6;0 ,1;30
+153;Medium;Yemen;20;38;14;46;85;96;15;4; ;5 ,3; 
+154;Medium;Uganda;19;27;7;13; ;83; ;17; ;14 ,0;88
+155;Medium;Gambia;72;65;60;45; ;84; ;17; ;5 ,9;115
+156;Low;Senegal;30;42;25;27;77;55;23;43; ;11 ,7;96
+157;Low;Eritrea;45;56;11;9; ; ; ; ; ; ;93
+158;Low;Nigeria;29;35;43;53;99;98;1;2; ;1 ,7;122
+159;Low;Tanzania (United Republic of);37;26;13;17; ;85; ;14; ;0 ,8;100
+160;Low;Guinea;31;30;31;26; ;75; ;25; ; ;106
+161;Low;Rwanda;14;31;6;11; ;90; ;10; ;25 ,4;89
+162;Low;Angola;21;48;39;74;100; ; ; ; ; ;121
+163;Low;Benin;26;26;14;13;87;87;13;13; ;0 ,3;93
+164;Low;Malawi;33;53;24;27;93;84;7;16;3 ,8;7 ,5;82
+165;Low;Zambia;37;25;36;16; ;91; ;9; ;1 ,1;119
+166;Low;Côte d'Ivoire;27;42;32;50; ;78; ;20; ;8 ,4;121
+167;Low;Burundi;28;36;8;8; ;94; ;6; ;5 ,9;84
+168;Low;Congo (Democratic Republic of the);29;39;30;32; ; ; ; ; ; ;94
+169;Low;Ethiopia;9;39;6;16; ;89; ;11; ;0 ,2;91
+170;Low;Chad;28;39;13;59; ; ; ; ; ; ;101
+171;Low;Central African Republic;28;17;15;12;56;59;44;36; ; ;99
+172;Low;Mozambique;36;42;8;33; ;89; ;7; ;7 ,5;94
+173;Low;Mali;34;37;17;26;98;44;2;55; ;6 ,6;113
+174;Low;Niger;22;24;15;15; ;91; ;8; ;3 ,2;131
+175;Low;Guinea-Bissau;37;55;10;38; ; ; ; ; ; ;94
+176;Low;Burkina Faso;24;22;11;9; ;92; ;8; ;9 ,8;97
+177;Low;Sierra Leone;24;43;22;24; ;93; ;7; ;31 ,1;78
